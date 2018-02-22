@@ -1,10 +1,10 @@
-- Server
+# Server
   - API
     - [Apollo GraphQL](https://www.apollographql.com) / (REST)
   - Database
     - SQLite
   - Probably NodeJS
-- Client
+# Client
   - Windows
     - C#
     - WPF
