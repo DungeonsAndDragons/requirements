@@ -49,3 +49,6 @@
 ### Notes
  - Different adventures are represented by different servers
    - All details (chars, maps, items) are bound to the adventure
+   
+## Used technologies
+A list of used technologies can be seen [here](technology.md)
