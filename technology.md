@@ -1,6 +1,6 @@
 - Server
   - API
-    - Apollo GraphQL / (REST)
+    - [Apollo GraphQL](https://www.apollographql.com) / (REST)
   - Database
     - SQLite
   - Probably NodeJS
