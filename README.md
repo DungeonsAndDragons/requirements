@@ -21,12 +21,14 @@
        - Features
        - 3D Model
        - ... (everything in char sheet)
+     - Conquered dungeons
    - Session
      - Enlisted characters
      - Time (optional - might be determined later)
      - Notes
        - GM only
        - Player visible
+     - Dungeon identifier (GM only)
      - Event summary
        - Written by players after the session is completed
    - Map
