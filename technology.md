@@ -1,0 +1,15 @@
+- Server
+  - API
+    - Apollo GraphQL / (REST)
+  - Database
+    - SQLite
+  - Probably NodeJS
+- Client
+  - Windows
+    - C#
+    - WPF
+  - Web
+    - ReactJS
+    - [Freatcal](https://github.com/FormidableLabs/freactal)
+  - macOS / iOS (maybe)
+    - Swift
